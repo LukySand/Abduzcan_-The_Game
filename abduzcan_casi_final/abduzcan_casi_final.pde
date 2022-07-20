@@ -1,4 +1,5 @@
 // ABDUZCAN THE GAME
+//--//
 Pantalla inicio;  //clase de pantalla de inicio
 Fondo ciudad;  //clase de el fondo del juego
 Persona test2; //clase de la primera persona, quedo como test porque fue la primera
